@@ -12,7 +12,7 @@ public class GitClass : MonoBehaviour
     {
         print("Hello! My name is " + myName);
 
-        if (myPower > 7777)
+        if (myPower > 17)
         {
             print("It's over 9000!!!");
         }
