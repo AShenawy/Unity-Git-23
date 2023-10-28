@@ -2,15 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GitClass : MonoBehaviour
+public class gatClass : MonoBehaviour
 {
     string myName = "Slim Shady";
-    int myPower = 9001;
+    int myPower = 8001;
 
     // Start is called before the first frame update
     void Start()
     {
-        print("Hello! My name is who. May name is what. My name is wikawika" + myName);
+        print("Hello! My name is Git. May name is Gat. My name is wikawaka" + myName);
 
         if (myPower > 9000)
         {
