@@ -1,13 +1,17 @@
-Welcome to Unity with Git!
+Tere tulemast Unitysse koos Gitiga!
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Git on tasuta ja avatud lähtekoodiga  versioonihaldussüsteem, mis on loodud kiire ja tõhusaks haldamiseks kõike alates väikestest kuni väga suurte projektideni.
 
-George's bit:
-Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows. 
+George'i osa:
+Giti on lihtne õppida ja sellel on väike jalajälg ja välkkiire jõudlus. See ületab SCM-i tööriistad nagu Subversion, CVS, Perforce ja ClearCase selliste funktsioonidega nagu odav kohalik hargnemine, mugavad lavastusalad ja mitmed töövood.
 
-Well, I'll be! I really hope this is the correct file to edit! If it isn't I guess I'll just go cry in a corner somewhere...
+No ma olen! Loodan väga, et see on redigeerimiseks õige fail! Kui ei, siis ma lähen lihtsalt kuskile nurka nutma...
 
-Nikita's bit:
-Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+Nikita osa:
+Giti on lihtne õppida ja sellel on väike jalajälg ja välkkiire jõudlus. See ületab SCM-i tööriistad nagu Subversion, CVS, Perforce ja ClearCase selliste funktsioonidega nagu odav kohalik hargnemine, mugavad lavastusalad ja mitmed töövood.
 
-Today is 22.09 and these are my first steps to understand Git and Unity. P.S. Nikita D. 
+Piret:
+
+Üritan mõista ja aru saada mida teha ja kuiads.
+
+28.10.2023
