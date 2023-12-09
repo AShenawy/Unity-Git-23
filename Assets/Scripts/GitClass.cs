@@ -5,7 +5,7 @@ using UnityEngine;
 public class GitClass : MonoBehaviour
 {
     string myName = "Angelina";
-    int myPower = 31293;
+    int myPower = 312993;
 
     // Start is called before the first frame update
     void Start()
